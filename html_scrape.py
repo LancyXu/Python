@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 21 11:02:01 2017
 
-@author: jrbrad
+@author: lxu08
 """
 
 import requests
