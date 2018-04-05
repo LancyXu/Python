@@ -1,2 +1,2 @@
-# Python
-This includes some exercises using Python
+# Heuristic Algorithm
+This includes some exercises in Heuristic Algorithms
