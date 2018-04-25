@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 19 21:24:59 2017
 
-@author: jrbrad
+@author: lxu08
 """
 
 import MySQLdb as mySQL 
