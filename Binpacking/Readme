@@ -1,0 +1,3 @@
+This folder contains:
+-The original binpacking algorithm and its related small sql file 
+-A faster algorithm(named "...fast..") and a much larger dataset to test the speed up effect
